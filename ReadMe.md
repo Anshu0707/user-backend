@@ -20,7 +20,7 @@
 - Express | Psql CLI 
 ---
 
-- Database Interation
+### Database Interation
 
 ---
 <img width="1604" height="281" alt="Screenshot 2025-11-17 161629" src="https://github.com/user-attachments/assets/058bb2a0-f397-4af0-81d0-2b498ef2ae8d" />
@@ -30,7 +30,7 @@
 
 ---
 
-- Microservice v/s Monolith
+### Microservice v/s Monolith
 ---
 <img width="1400" height="367" alt="1_0KU2D01lx9TCOnGc8n20Cg" src="https://github.com/user-attachments/assets/4cd367a0-9327-468e-a4f2-9e8773057310" />
 

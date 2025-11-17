@@ -1,14 +1,18 @@
 # Small microservice demo
 
-\*\*Folder Structure Followed
+- Folder Structure Followed
 
-user-creation/
-config/  
- routes/
-controllers/
-services/
-repository/
-middlewares/
-utils/
-app.ts
-server.ts
+```
+└── 📁user-creation
+    └── 📁config
+    └── 📁controllers
+    └── 📁middlewares
+    └── 📁repository
+    └── 📁routes
+    └── 📁services
+    └── 📁utils
+    ├── .env
+    ├── app.js
+    ├── data.js
+    └── server.js
+```

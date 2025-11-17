@@ -22,15 +22,23 @@
 
 ### Database Interactions
 
+## Table Creation
 ---
 <img width="1604" height="281" alt="Screenshot 2025-11-17 161629" src="https://github.com/user-attachments/assets/058bb2a0-f397-4af0-81d0-2b498ef2ae8d" />
 
 --- 
+
 <img width="1469" height="901" alt="Screenshot 2025-11-17 161717" src="https://github.com/user-attachments/assets/7e5662ce-05a3-4f9e-9d42-e3da327ea1fe" />
 
 ---
 
+## Middleware
+<img width="1624" height="172" alt="Screenshot 2025-11-17 165851" src="https://github.com/user-attachments/assets/1cca8d8a-7760-4734-905c-2542a4d2ab54" />
+
+---
+
 ### Microservice v/s Monolith
+
 ---
 <img width="1400" height="367" alt="1_0KU2D01lx9TCOnGc8n20Cg" src="https://github.com/user-attachments/assets/4cd367a0-9327-468e-a4f2-9e8773057310" />
 

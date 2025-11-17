@@ -17,6 +17,9 @@
     └── server.js
 ```
 
+- Tech Stack
+Express | Psql CLI 
+
 - Database Interation
 
 ---

@@ -17,12 +17,13 @@
     └── server.js
 ```
 ### Tech Stack
-- Express | Psql CLI 
+- Express 
+- PostgreSQL Db
 ---
 
-### Database Interactions
+## Database Interactions
 
-## Table Creation
+### Table Creation
 ---
 <img width="1604" height="281" alt="Screenshot 2025-11-17 161629" src="https://github.com/user-attachments/assets/058bb2a0-f397-4af0-81d0-2b498ef2ae8d" />
 
@@ -32,7 +33,7 @@
 
 ---
 
-## Middleware
+### Middleware
 <img width="1624" height="172" alt="Screenshot 2025-11-17 165851" src="https://github.com/user-attachments/assets/1cca8d8a-7760-4734-905c-2542a4d2ab54" />
 
 ---

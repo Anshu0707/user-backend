@@ -1,14 +1,14 @@
 import express from "express";
 import dotenv from "dotenv";
-import userRoutes from "./routes/userRoutes.js";
+import authRoutes from "./routes/authRoutes.js";
 
 dotenv.config();
 
 const app = express();
-
 app.use(express.json());
-app.use("/users", userRoutes);
+
+app.use("/auth", authRoutes);
 app.get("/", (req, res) => {
-  res.send("User Creation Service is running");
+  res.send("Authentication Service is running");
 });
 export default app;

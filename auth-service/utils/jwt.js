@@ -1,3 +1,5 @@
+// Token generation and verification utilitys
+
 import jwt from "jsonwebtoken";
 
 export function generateToken(payload) {
